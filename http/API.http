@@ -1,0 +1,8 @@
+### POST /bookings/reserve
+POST http://{{host}}:{{port}}/{{parh}}/bookings/reserve
+Content-Type: application/json
+
+{ "event_id": 1, "user_id": "alice" }
+
+
+###
